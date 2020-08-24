@@ -25,7 +25,7 @@ social:
     link: https://www.researchgate.net/profile/Laure_Zanna
   - link: http://orcid.org/0000-0002-8472-4828
     icon: orcid
-    icon_pack: ai
+    icon_pack: fab
 organizations:
   - name: New York University, Courant Institute
     url: https://cims.nyu.edu/
