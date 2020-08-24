@@ -33,7 +33,7 @@ education:
     - course: BSc in Atmospheric Science
       institution: Tel Aviv University
       year: 1988
-email: ""
+email: laure.zanna@nyu.edu
 superuser: true
 authors:
   - admin
