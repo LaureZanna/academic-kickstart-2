@@ -1,8 +1,7 @@
 ---
 title: Laure Zanna
 role: Professor of Atmosphere/Ocean Science and Mathematics
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Ocean Dynamics
   - Climate Change
