@@ -1,7 +1,7 @@
 ---
 title: Laure Zanna
 role: Professor of Atmosphere/Ocean Science and Mathematics
-avatar_filename: portrait.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Ocean Dynamics
