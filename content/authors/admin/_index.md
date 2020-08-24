@@ -20,7 +20,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/LaureZanna
-  - icon_pack: far
+  - icon_pack: fab
     icon: researchgate
     link: https://www.researchgate.net/profile/Laure_Zanna
   - link: http://orcid.org/0000-0002-8472-4828
