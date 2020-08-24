@@ -19,6 +19,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/LaureZanna
+  - icon_pack: ai
+    icon: researchgate
+    link: https://www.researchgate.net/profile/Laure_Zanna
 organizations:
   - name: New York University, Courant Institute
     url: https://cims.nyu.edu/
