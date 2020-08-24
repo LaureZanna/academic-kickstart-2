@@ -20,8 +20,8 @@ social:
     icon_pack: fab
     link: https://github.com/LaureZanna
 organizations:
-  - name: New York University
-    url: ""
+  - name: New York University, Courant Institute
+    url: https://cims.nyu.edu/
 education:
   courses:
     - course: PhD in Climate Dynamics
