@@ -4,9 +4,9 @@ role: Professor of Atmosphere/Ocean Science and Mathematics
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ocean Dynamics
+  - Climate Change
+  - Climate Modelling
 social:
   - icon: envelope
     icon_pack: fas
